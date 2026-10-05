@@ -1,8 +1,0 @@
-pyproject.toml
-src/tacmi/__init__.py
-src/transformation_aware_causal_mechanism_identification.egg-info/PKG-INFO
-src/transformation_aware_causal_mechanism_identification.egg-info/SOURCES.txt
-src/transformation_aware_causal_mechanism_identification.egg-info/dependency_links.txt
-src/transformation_aware_causal_mechanism_identification.egg-info/requires.txt
-src/transformation_aware_causal_mechanism_identification.egg-info/top_level.txt
-tests/test_environment.py

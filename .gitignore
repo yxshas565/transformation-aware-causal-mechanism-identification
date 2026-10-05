@@ -39,3 +39,6 @@ data/generated/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Build / packaging artifacts
+*.egg-info/
